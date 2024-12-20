@@ -1,0 +1,126 @@
+[
+  {
+    "name": "losang",
+    "position": {
+      "x": -59.1428223,
+      "y": 58.8571472,
+      "normalized": {
+        "x": -0.708816648,
+        "y": 0.705392838,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 83.43882,
+      "sqrMagnitude": 6962.037
+    },
+    "rotation": 0.0
+  },
+  {
+    "name": "quadrad",
+    "position": {
+      "x": -108.571442,
+      "y": 108.571381,
+      "normalized": {
+        "x": -0.707106948,
+        "y": 0.707106531,
+        "normalized": {
+          "x": -0.707107,
+          "y": 0.7071066,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
+      },
+      "magnitude": 153.543167,
+      "sqrMagnitude": 23575.502
+    },
+    "rotation": 0.0
+  },
+  {
+    "name": "triang-peq",
+    "position": {
+      "x": -93.14288,
+      "y": 74.14282,
+      "normalized": {
+        "x": -0.7823887,
+        "y": 0.6227905,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 119.049377,
+      "sqrMagnitude": 14172.7549
+    },
+    "rotation": 3.046869E-05
+  },
+  {
+    "name": "triang-peq (1)",
+    "position": {
+      "x": -60.7142944,
+      "y": -22.4285583,
+      "normalized": {
+        "x": -0.9380413,
+        "y": -0.346523255,
+        "normalized": {
+          "x": -0.9380414,
+          "y": -0.346523285,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
+      },
+      "magnitude": 64.72454,
+      "sqrMagnitude": 4189.26563
+    },
+    "rotation": 0.0
+  },
+  {
+    "name": "triang-med",
+    "position": {
+      "x": -76.0,
+      "y": 108.857109,
+      "normalized": {
+        "x": -0.572451,
+        "y": 0.819938958,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 132.762451,
+      "sqrMagnitude": 17625.8711
+    },
+    "rotation": 0.0
+  },
+  {
+    "name": "triang-grand",
+    "position": {
+      "x": -76.57144,
+      "y": -56.571434,
+      "normalized": {
+        "x": -0.8043009,
+        "y": -0.594222248,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 95.2024841,
+      "sqrMagnitude": 9063.513
+    },
+    "rotation": 0.0
+  },
+  {
+    "name": "triang-grand (1)",
+    "position": {
+      "x": -77.0000153,
+      "y": 9.00003052,
+      "normalized": {
+        "x": -0.99323833,
+        "y": 0.116093166,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 77.52421,
+      "sqrMagnitude": 6010.003
+    },
+    "rotation": 270.000031
+  }
+]

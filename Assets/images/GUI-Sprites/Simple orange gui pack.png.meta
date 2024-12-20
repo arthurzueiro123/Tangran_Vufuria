@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: d53653bba95044a45b94befb7657d35a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Simple orange gui pack_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1958
+        width: 663
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09959415f4e547843888b875cc817cc4
+      internalID: -309257828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_1
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 823
+        width: 1607
+        height: 1470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8225a3d0bd90f45a4f92106885387e
+      internalID: 267174757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_2
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 2041
+        width: 744
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f5a1e53ce964c42b564bcd58e022ef
+      internalID: -1716685977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_3
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2044
+        width: 717
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5231ce2b5e6da664388455fa45967b7c
+      internalID: 1132672543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1565
+        width: 663
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e4a705f1e31f14abf823f957576efe
+      internalID: -171128057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_5
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 1661
+        width: 255
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55bd08b43fc0e6438f45b6413304337
+      internalID: -151270509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_6
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 1684
+        width: 282
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1dcd9915c4cb24ebaeacb6b4a758fe
+      internalID: 460954258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_7
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 1655
+        width: 246
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768a5103995b40a45ae0ff6822bb6c96
+      internalID: 598752049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1175
+        width: 682
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504c0ea7990b0d74990dc76594ccf364
+      internalID: -298517596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_9
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 823
+        width: 1424
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5807f825f854aa4468d882ab2690358d
+      internalID: -2133556654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 782
+        width: 661
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ce851afcfbfb64db04827f37a6ff81
+      internalID: -665230220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 661
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5c1450eca6b54469b66660391c6146
+      internalID: -1791251415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_12
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 390
+        width: 317
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66600b0b9c3239499d04900ecae33a2
+      internalID: -557905385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_13
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 390
+        width: 319
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af9fa745bec5d246b817616859f32f8
+      internalID: -1895112936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_14
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 390
+        width: 318
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8818df8165197478a5d6167c6f9f1b
+      internalID: 807146729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_15
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 390
+        width: 316
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7038081aec98c2c4598c908ce4f7b13d
+      internalID: -432633478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_16
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 390
+        width: 318
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23ad4cb91cce5c4997d289d080d143b
+      internalID: -350286213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_17
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 390
+        width: 317
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c5d86b023ea19439c9a6a489c7658f
+      internalID: -753262284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_18
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 390
+        width: 317
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4df5b07b80822d449498954142a1068
+      internalID: 1931662221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_19
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 390
+        width: 371
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef23838160e4f1f45a1f9df0b62dfa83
+      internalID: 1898053866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 661
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc960f0354b6de94787e7fbbc5e28ed0
+      internalID: 480652579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_21
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 3
+        width: 317
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6fc0fd3bbfb294d8ddd6c954fb8ac9
+      internalID: 1162321529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_22
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 3
+        width: 319
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4888a13ee9afe4b8b03acbab53fc60
+      internalID: 130367587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_23
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 3
+        width: 318
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100265eeccc64a342b12e7faaeb69c0e
+      internalID: -2007618791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_24
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 3
+        width: 316
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0fcf1fcf67ef8488e8a653b48e2e4d
+      internalID: -312420821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_25
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 3
+        width: 318
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59cabc963b74ff449c2e57bc5bd1a10
+      internalID: -661491401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_26
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 3
+        width: 317
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78495f75cf9b6204390d4c618f6bd22c
+      internalID: -993574480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_27
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 7
+        width: 317
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a5054bb22cf6c458f50f73d8c4963b
+      internalID: -30983088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple orange gui pack_28
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 0
+        width: 371
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2e1c3c3958fc74e8e1b1f3b848d404
+      internalID: 1854589820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Simple orange gui pack_0: -309257828
+      Simple orange gui pack_1: 267174757
+      Simple orange gui pack_10: -665230220
+      Simple orange gui pack_11: -1791251415
+      Simple orange gui pack_12: -557905385
+      Simple orange gui pack_13: -1895112936
+      Simple orange gui pack_14: 807146729
+      Simple orange gui pack_15: -432633478
+      Simple orange gui pack_16: -350286213
+      Simple orange gui pack_17: -753262284
+      Simple orange gui pack_18: 1931662221
+      Simple orange gui pack_19: 1898053866
+      Simple orange gui pack_2: -1716685977
+      Simple orange gui pack_20: 480652579
+      Simple orange gui pack_21: 1162321529
+      Simple orange gui pack_22: 130367587
+      Simple orange gui pack_23: -2007618791
+      Simple orange gui pack_24: -312420821
+      Simple orange gui pack_25: -661491401
+      Simple orange gui pack_26: -993574480
+      Simple orange gui pack_27: -30983088
+      Simple orange gui pack_28: 1854589820
+      Simple orange gui pack_3: 1132672543
+      Simple orange gui pack_4: -171128057
+      Simple orange gui pack_5: -151270509
+      Simple orange gui pack_6: 460954258
+      Simple orange gui pack_7: 598752049
+      Simple orange gui pack_8: -298517596
+      Simple orange gui pack_9: -2133556654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

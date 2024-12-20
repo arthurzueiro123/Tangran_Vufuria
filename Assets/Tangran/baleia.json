@@ -1,0 +1,120 @@
+[
+  {
+    "name": "losang",
+    "position": {
+      "x": 165.428589,
+      "y": -15.4285736,
+      "normalized": {
+        "x": 0.995679,
+        "y": -0.0928612649,
+        "normalized": {
+          "x": 0.9956791,
+          "y": -0.09286127,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 166.1465,
+      "sqrMagnitude": 27604.6582
+    },
+    "rotation": 270.000031
+  },
+  {
+    "name": "quadrad",
+    "position": {
+      "x": 22.2857361,
+      "y": 0.571411133,
+      "normalized": {
+        "x": 0.999671459,
+        "y": 0.0256317947,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 22.29306,
+      "sqrMagnitude": 496.98053
+    },
+    "rotation": 0.0
+  },
+  {
+    "name": "triang-peq",
+    "position": {
+      "x": 5.142853,
+      "y": 32.42862,
+      "normalized": {
+        "x": 0.156632453,
+        "y": 0.987656951,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 32.83389,
+      "sqrMagnitude": 1078.06433
+    },
+    "rotation": 180.000015
+  },
+  {
+    "name": "triang-peq (1)",
+    "position": {
+      "x": 55.2857056,
+      "y": 15.8571472,
+      "normalized": {
+        "x": 0.9612422,
+        "y": 0.275705248,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 57.5148544,
+      "sqrMagnitude": 3307.95825
+    },
+    "rotation": 90.00001
+  },
+  {
+    "name": "triang-med",
+    "position": {
+      "x": -11.4285889,
+      "y": 108.857109,
+      "normalized": {
+        "x": -0.104413211,
+        "y": 0.994534,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 109.455391,
+      "sqrMagnitude": 11980.4824
+    },
+    "rotation": 225.000031
+  },
+  {
+    "name": "triang-grand",
+    "position": {
+      "x": 92.57141,
+      "y": -9.71431,
+      "normalized": {
+        "x": 0.994539,
+        "y": -0.104365483,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 93.07972,
+      "sqrMagnitude": 8663.834
+    },
+    "rotation": 225.000031
+  },
+  {
+    "name": "triang-grand (1)",
+    "position": {
+      "x": 138.999969,
+      "y": 37.57141,
+      "normalized": {
+        "x": 0.965356648,
+        "y": 0.260933936,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 143.9882,
+      "sqrMagnitude": 20732.6016
+    },
+    "rotation": 45.0000343
+  }
+]

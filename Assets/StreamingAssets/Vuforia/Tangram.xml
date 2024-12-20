@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="triang-amarel-grand" size="1.000000 1.992537" />
+    <ImageTarget name="quadra-rosa" size="1.000000 1.000000" />
+    <ImageTarget name="losang-lilaz" size="1.000000 2.913043" />
+    <ImageTarget name="triang-laran-med" size="1.000000 1.000000" />
+    <ImageTarget name="triang-vazul-peq" size="1.000000 0.500000" />
+    <ImageTarget name="triang-verde-grand" size="1.000000 0.501873" />
+    <ImageTarget name="triang-vermel-peq-2" size="1.000000 2.000000" />
+    <ImageTarget name="triang-vermel-peq" size="1.000000 2.000000" />
+  </Tracking>
+</QCARConfig>

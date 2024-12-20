@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI/Main_UI.unity
+    guid: ee1b7647bd26d4d47b0157338ab6f21c
+  - enabled: 1
+    path: Assets/Scenes/Main_AR 1.unity
+    guid: fa86f5ac357f8504e8b7bb82c023a9ec
+  - enabled: 1
+    path: Assets/Scenes/RankingScene.unity
+    guid: ee3db492d12e82f4e961fa4af8584493
+  - enabled: 1
+    path: Assets/Scenes/UI/Input_Individual.unity
+    guid: c67ee34d8c2621d4eabb294b38b3a430
+  - enabled: 1
+    path: Assets/Scenes/UI/Input_multi.unity
+    guid: 4d85bbbb2eefa634cb5b1667b3971c3c
+  - enabled: 1
+    path: Assets/Scenes/Multi_end_2.unity
+    guid: 79093f0df9a3ffa4c90f3919dc39a92b
+  - enabled: 1
+    path: Assets/Scenes/Main_AR Multi.unity
+    guid: 193c6139d6ce79844a8fed517286f741
+  m_configObjects: {}

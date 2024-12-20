@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="marker-teste" size="1.000000 0.749035" />
+    <ImageTarget name="pc-img" size="1.000000 0.847875" />
+  </Tracking>
+</QCARConfig>
